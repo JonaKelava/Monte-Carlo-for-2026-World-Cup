@@ -1,4 +1,5 @@
-Contributors & Credits
+Contributors & Credits:
+
 **[Eric Ji](https://github.com/EricJJi)** - Project Lead, Monte Carlo Simulation & Python Modeling
 
 **[Jeremy Hansen](https://github.com/jrmy-h)** - Data Collecting, Model Validation
